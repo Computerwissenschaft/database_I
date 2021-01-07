@@ -110,28 +110,28 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1682292"
-     inkscape:cx="660.1575"
-     inkscape:cy="734.01769"
+     inkscape:zoom="0.5841146"
+     inkscape:cx="897.56444"
+     inkscape:cy="542.53049"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer4"
      showgrid="true"
      units="px"
      inkscape:snap-global="true"
      inkscape:snap-page="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:window-width="2880"
-     inkscape:window-height="1526"
-     inkscape:window-x="2869"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="true"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid2243" />
+       id="grid2243"
+       type="xygrid" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -141,7 +141,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -151,7 +151,7 @@
      id="layer1"
      transform="translate(0,-11.249983)"
      ns1:masterSlide="masterSlide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:url(#radialGradient832);fill-opacity:1;stroke:none;stroke-width:0.933622;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -217,7 +217,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="01_Tabelle"
-     style="display:none;opacity:1">
+     style="display:inline;opacity:1">
     <rect
        style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect1131"
@@ -261,23 +261,22 @@
          x="20.557486"
          sodipodi:role="line">Tabelle Person</tspan></text>
     <text
-       id="text9934-2"
-       y="100.3848"
-       x="112.65139"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       transform="scale(1.000052,0.99994801)"
        xml:space="preserve"
-       ns1:effectIn="name:appear;order:1;length:300"
-       transform="scale(1.000052,0.99994801)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       x="112.65139"
+       y="100.3848"
+       id="text9934-2"><tspan
+         id="tspan5149"
+         sodipodi:role="line"
+         x="112.65139"
          y="100.3848"
-         x="112.65139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481">name</tspan><tspan
+         id="tspan5151"
          sodipodi:role="line"
-         id="tspan5149">name</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481"
+         x="112.65139"
          y="110.96814"
-         x="112.65139"
-         sodipodi:role="line"
-         id="tspan5151" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -387,23 +386,22 @@
        x="368.6185"
        y="84.204048" />
     <text
-       id="text9934-2-3"
-       y="126.13029"
-       x="112.66685"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       transform="scale(1.000052,0.999948)"
        xml:space="preserve"
-       ns1:effectIn="name:appear;order:1;length:300"
-       transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       x="112.66685"
+       y="126.13029"
+       id="text9934-2-3"><tspan
+         id="tspan5149-4"
+         sodipodi:role="line"
+         x="112.66685"
          y="126.13029"
-         x="112.66685"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481">Petra</tspan><tspan
+         id="tspan5151-5"
          sodipodi:role="line"
-         id="tspan5149-4">Petra</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+         x="112.66685"
          y="136.71362"
-         x="112.66685"
-         sodipodi:role="line"
-         id="tspan5151-5" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -465,23 +463,22 @@
        id="path9695-6-0"
        inkscape:connector-curvature="0" />
     <text
-       id="text9934-2-3-0"
-       y="154.30847"
-       x="111.67612"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       transform="scale(1.000052,0.999948)"
        xml:space="preserve"
-       ns1:effectIn="name:appear;order:1;length:300"
-       transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       x="111.67612"
+       y="154.30847"
+       id="text9934-2-3-0"><tspan
+         id="tspan5149-4-0"
+         sodipodi:role="line"
+         x="111.67612"
          y="154.30847"
-         x="111.67612"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481">Hans</tspan><tspan
+         id="tspan5151-5-5"
          sodipodi:role="line"
-         id="tspan5149-4-0">Hans</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+         x="111.67612"
          y="164.8918"
-         x="111.67612"
-         sodipodi:role="line"
-         id="tspan5151-5-5" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -543,23 +540,22 @@
        id="path9695-6-0-5"
        inkscape:connector-curvature="0" />
     <text
-       id="text9934-2-3-7"
-       y="181.48277"
-       x="111.94344"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       transform="scale(1.000052,0.999948)"
        xml:space="preserve"
-       ns1:effectIn="name:appear;order:1;length:300"
-       transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       x="111.94344"
+       y="181.48277"
+       id="text9934-2-3-7"><tspan
+         id="tspan5149-4-7"
+         sodipodi:role="line"
+         x="111.94344"
          y="181.48277"
-         x="111.94344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481">Frida</tspan><tspan
+         id="tspan5151-5-50"
          sodipodi:role="line"
-         id="tspan5149-4-7">Frida</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+         x="111.94344"
          y="192.0661"
-         x="111.94344"
-         sodipodi:role="line"
-         id="tspan5151-5-50" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -621,23 +617,22 @@
        id="path9695-6-0-7"
        inkscape:connector-curvature="0" />
     <text
-       id="text9934-2-3-70"
-       y="208.91182"
-       x="102.72274"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       transform="scale(1.000052,0.999948)"
        xml:space="preserve"
-       ns1:effectIn="name:appear;order:1;length:300"
-       transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       x="102.72274"
+       y="208.91182"
+       id="text9934-2-3-70"><tspan
+         id="tspan5149-4-71"
+         sodipodi:role="line"
+         x="102.72274"
          y="208.91182"
-         x="102.72274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481">Willhelmine</tspan><tspan
+         id="tspan5151-5-1"
          sodipodi:role="line"
-         id="tspan5149-4-71">Willhelmine</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+         x="102.72274"
          y="219.49515"
-         x="102.72274"
-         sodipodi:role="line"
-         id="tspan5151-5-1" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -699,23 +694,22 @@
        id="path9695-6-0-57"
        inkscape:connector-curvature="0" />
     <text
-       id="text9934-2-3-74"
-       y="235.98976"
-       x="111.94344"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       transform="scale(1.000052,0.999948)"
        xml:space="preserve"
-       ns1:effectIn="name:appear;order:1;length:300"
-       transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
+       x="111.94344"
+       y="235.98976"
+       id="text9934-2-3-74"><tspan
+         id="tspan5149-4-2"
+         sodipodi:role="line"
+         x="111.94344"
          y="235.98976"
-         x="111.94344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481">Gernot</tspan><tspan
+         id="tspan5151-5-9"
          sodipodi:role="line"
-         id="tspan5149-4-2">Gernot</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481"
+         x="111.94344"
          y="246.57309"
-         x="111.94344"
-         sodipodi:role="line"
-         id="tspan5151-5-9" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.46988481" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -780,8 +774,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="08_Tafelbild"
-     style="display:inline">
+     inkscape:label="02_Tafelbild"
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.37175083px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38429376"
@@ -820,30 +814,30 @@
            y="811.29944" /></flowRegion><flowPara
          id="flowPara15095" /></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-2.4962921,84.666671)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333337px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot15118"
        xml:space="preserve"><flowRegion
          id="flowRegion15110"
-         style="font-size:29.3333337px;"><rect
+         style="font-size:29.33333397px"><rect
            y="188.57143"
            x="120"
            height="831.42859"
            width="1631.4286"
            id="rect15108"
-           style="font-size:29.3333337px;" /></flowRegion><flowPara
+           style="font-size:29.33333397px" /></flowRegion><flowPara
          id="flowPara15116">Datentyp:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot15128"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333337px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,83.488445,86.367339)"><flowRegion
          id="flowRegion15124"
-         style="font-size:29.3333337px;"><rect
+         style="font-size:29.33333397px"><rect
            id="rect15122"
            width="1631.4286"
            height="831.42859"
            x="120"
            y="188.57143"
-           style="font-size:29.3333337px;" /></flowRegion><flowPara
+           style="font-size:29.33333397px" /></flowRegion><flowPara
          id="flowPara15126">Erklärung:</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1016,7 +1010,7 @@
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.43244594;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.76111111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="339.46558"
        y="145.26556"
        id="text3978"><tspan
@@ -1024,7 +1018,7 @@
          id="tspan3976"
          x="339.46558"
          y="145.26556"
-         style="stroke-width:0.26458332;font-size:7.76111111px;">Beispiel:</tspan></text>
+         style="font-size:7.76111126px;stroke-width:0.26458332">Beispiel:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1133,7 +1127,7 @@
          id="tspan1297"
          x="399.52084"
          y="260.71793"
-         style="stroke-width:0.26458332"></tspan><tspan
+         style="stroke-width:0.26458332" /><tspan
          sodipodi:role="line"
          x="399.52084"
          y="273.94708"
@@ -1149,7 +1143,7 @@
          id="tspan1307"
          x="423.33331"
          y="271.30127"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1160,40 +1154,40 @@
          id="tspan1313"
          x="420.6875"
          y="271.30127"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1321"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion1323"><rect
            id="rect1325"
            width="1890"
            height="600"
            x="60"
            y="490" /></flowRegion><flowPara
-         id="flowPara1327"></flowPara></flowRoot>    <flowRoot
+         id="flowPara1327" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1329"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion1331"
-         style="font-size:32px;"><rect
+         style="font-size:32px"><rect
            id="rect1333"
            width="2280"
            height="850"
            x="70"
            y="430"
-           style="font-size:32px;" /></flowRegion><flowPara
-         id="flowPara1335"></flowPara></flowRoot>    <flowRoot
+           style="font-size:32px" /></flowRegion><flowPara
+         id="flowPara1335" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1337"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion1339"><rect
            id="rect1341"
            width="1360"
            height="370"
            x="40"
            y="50" /></flowRegion><flowPara
-         id="flowPara1343"></flowPara></flowRoot>    <text
+         id="flowPara1343" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="185.20833"
@@ -1203,7 +1197,7 @@
          id="tspan1349"
          x="185.20833"
          y="199.86377"
-         style="stroke-width:0.26458332"></tspan><tspan
+         style="stroke-width:0.26458332" /><tspan
          sodipodi:role="line"
          x="185.20833"
          y="213.09294"
@@ -1219,7 +1213,7 @@
          id="tspan1355"
          x="71.4375"
          y="228.96793"
-         style="stroke-width:0.26458332"></tspan><tspan
+         style="stroke-width:0.26458332" /><tspan
          sodipodi:role="line"
          x="71.4375"
          y="242.1971"
