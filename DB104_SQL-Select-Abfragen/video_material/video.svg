@@ -123,9 +123,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.5841146"
      inkscape:cx="933.73727"
-     inkscape:cy="640.60641"
+     inkscape:cy="642.80559"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer10"
      showgrid="true"
      units="px"
      inkscape:snap-global="true"
@@ -177,10 +177,11 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="00_Intro"
-     style="display:inline">
+     style="display:none"
+     ns1:masterSlide="masterSlide">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.75754547px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66893858;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.75754547px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66893858"
        x="62.116413"
        y="128.563"
        id="text837"
@@ -189,21 +190,21 @@
          id="tspan835"
          x="62.116413"
          y="128.563"
-         style="stroke-width:0.66893858;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Einfache Abfragen mit SQL</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.66893858">Einfache Abfragen mit SQL</tspan></text>
     <text
        id="text841"
        y="100.54382"
        x="62.799435"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.56316757px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41407913;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.56316757px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41407913"
        xml:space="preserve"><tspan
-         style="stroke-width:0.41407913;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.41407913"
          y="100.54382"
          x="62.799435"
          id="tspan839"
          sodipodi:role="line">Datenbanken I</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.29836845px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25745919;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.29836845px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25745919"
        x="423.75211"
        y="277.53064"
        id="text845"><tspan
@@ -211,14 +212,14 @@
          id="tspan843"
          x="423.75211"
          y="277.53064"
-         style="stroke-width:0.25745919;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">CC-BY-NC-SA 3.0</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.25745919">CC-BY-NC-SA 3.0</tspan></text>
     <text
        id="text849"
        y="277.53064"
        x="12.994826"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.29836845px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25745919;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.29836845px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25745919"
        xml:space="preserve"><tspan
-         style="stroke-width:0.25745919;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.25745919"
          y="277.53064"
          x="12.994826"
          id="tspan847"
@@ -263,11 +264,11 @@
        id="text9737-5"
        y="26.213568"
        x="20.557486"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3827095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988484;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3827095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988484"
        xml:space="preserve"
        transform="scale(1.000052,0.99994801)"><tspan
          id="tspan9735-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988484;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988484"
          y="26.213568"
          x="20.557486"
          sodipodi:role="line">Selektion am Beispiel der Tabelle Person</tspan></text>
@@ -275,16 +276,16 @@
        id="text9934-2"
        y="100.3848"
        x="112.65139"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:300"
        transform="scale(1.000052,0.99994801)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481"
          y="100.3848"
          x="112.65139"
          sodipodi:role="line"
          id="tspan5149">name</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481"
          y="110.96814"
          x="112.65139"
          sodipodi:role="line"
@@ -390,16 +391,16 @@
        id="text9934-2-3"
        y="126.13029"
        x="112.66685"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:300"
        transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="126.13029"
          x="112.66685"
          sodipodi:role="line"
          id="tspan5149-4">Petra</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="136.71362"
          x="112.66685"
          sodipodi:role="line"
@@ -468,16 +469,16 @@
        id="text9934-2-3-0"
        y="154.30847"
        x="111.67612"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:300"
        transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="154.30847"
          x="111.67612"
          sodipodi:role="line"
          id="tspan5149-4-0">Hans</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="164.8918"
          x="111.67612"
          sodipodi:role="line"
@@ -546,16 +547,16 @@
        id="text9934-2-3-7"
        y="181.48277"
        x="111.94344"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:300"
        transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="181.48277"
          x="111.94344"
          sodipodi:role="line"
          id="tspan5149-4-7">Frida</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="192.0661"
          x="111.94344"
          sodipodi:role="line"
@@ -624,16 +625,16 @@
        id="text9934-2-3-70"
        y="208.91182"
        x="102.72274"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:300"
        transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="208.91182"
          x="102.72274"
          sodipodi:role="line"
          id="tspan5149-4-71">Willhelmine</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="219.49515"
          x="102.72274"
          sodipodi:role="line"
@@ -702,16 +703,16 @@
        id="text9934-2-3-74"
        y="235.98976"
        x="111.94344"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        xml:space="preserve"
        ns1:effectIn="name:appear;order:1;length:300"
        transform="scale(1.000052,0.999948)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="235.98976"
          x="111.94344"
          sodipodi:role="line"
          id="tspan5149-4-2">Gernot</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481"
          y="246.57309"
          x="111.94344"
          sodipodi:role="line"
@@ -816,7 +817,7 @@
        transform="scale(1.000052,0.99994801)"
        ns1:effectIn="name:appear;order:1;length:300"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        x="112.65139"
        y="100.3848"
        id="text1285"><tspan
@@ -824,12 +825,12 @@
          sodipodi:role="line"
          x="112.65139"
          y="100.3848"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481;">name</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481">name</tspan><tspan
          id="tspan1283"
          sodipodi:role="line"
          x="112.65139"
          y="110.96814"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481;" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#f9f9f9;fill-opacity:1;stroke-width:0.46988481" /></text>
     <text
        id="text1289"
        y="100.39181"
@@ -942,7 +943,7 @@
        transform="scale(1.000052,0.999948)"
        ns1:effectIn="name:appear;order:1;length:300"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        x="112.66685"
        y="126.13029"
        id="text1329"><tspan
@@ -950,12 +951,12 @@
          sodipodi:role="line"
          x="112.66685"
          y="126.13029"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;">Petra</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481">Petra</tspan><tspan
          id="tspan1327"
          sodipodi:role="line"
          x="112.66685"
          y="136.71362"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481" /></text>
     <text
        id="text1333"
        y="126.13596"
@@ -1020,7 +1021,7 @@
        transform="scale(1.000052,0.999948)"
        ns1:effectIn="name:appear;order:1;length:300"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        x="111.67612"
        y="154.30847"
        id="text1358"><tspan
@@ -1028,12 +1029,12 @@
          sodipodi:role="line"
          x="111.67612"
          y="154.30847"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;">Hans</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481">Hans</tspan><tspan
          id="tspan1356"
          sodipodi:role="line"
          x="111.67612"
          y="164.8918"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481" /></text>
     <text
        id="text1362"
        y="154.31265"
@@ -1098,7 +1099,7 @@
        transform="scale(1.000052,0.999948)"
        ns1:effectIn="name:appear;order:1;length:300"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        x="111.94344"
        y="181.48277"
        id="text1386"><tspan
@@ -1106,12 +1107,12 @@
          sodipodi:role="line"
          x="111.94344"
          y="181.48277"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;">Frida</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481">Frida</tspan><tspan
          id="tspan1384"
          sodipodi:role="line"
          x="111.94344"
          y="192.0661"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481" /></text>
     <text
        id="text1390"
        y="181.48555"
@@ -1176,7 +1177,7 @@
        transform="scale(1.000052,0.999948)"
        ns1:effectIn="name:appear;order:1;length:300"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        x="102.72274"
        y="208.91182"
        id="text1414"><tspan
@@ -1184,12 +1185,12 @@
          sodipodi:role="line"
          x="102.72274"
          y="208.91182"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;">Willhelmine</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481">Willhelmine</tspan><tspan
          id="tspan1412"
          sodipodi:role="line"
          x="102.72274"
          y="219.49515"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481" /></text>
     <text
        id="text1418"
        y="208.91318"
@@ -1254,7 +1255,7 @@
        transform="scale(1.000052,0.999948)"
        ns1:effectIn="name:appear;order:1;length:300"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988481"
        x="111.94344"
        y="235.98976"
        id="text1442"><tspan
@@ -1262,12 +1263,12 @@
          sodipodi:role="line"
          x="111.94344"
          y="235.98976"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;">Gernot</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481">Gernot</tspan><tspan
          id="tspan1440"
          sodipodi:role="line"
          x="111.94344"
          y="246.57309"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481;" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988481" /></text>
     <text
        id="text1446"
        y="235.98973"
@@ -1355,11 +1356,11 @@
        id="text9737-5-9"
        y="23.902357"
        x="18.042702"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3827095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988484;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3827095px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46988484"
        xml:space="preserve"
        transform="scale(1.000052,0.99994801)"><tspan
          id="tspan9735-3-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988484;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.46988484"
          y="23.902357"
          x="18.042702"
          sodipodi:role="line">Projektion am Beispiel der Tabelle Person</tspan></text>
@@ -5013,10 +5014,10 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="08_Tafelbild"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.37175083px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38429376;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.37175083px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38429376"
        x="26.338242"
        y="30.699076"
        id="text14934"><tspan
@@ -5024,20 +5025,20 @@
          id="tspan14932"
          x="26.338242"
          y="30.699076"
-         style="stroke-width:0.38429376;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Abfragen in SQL</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.38429376">Abfragen in SQL</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot15089"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="scale(0.26458333)"><flowRegion
          id="flowRegion15091"
-         style="-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"><rect
            id="rect15093"
            width="72.73098"
            height="48.487324"
            x="183.84776"
            y="811.29944"
-           style="-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></flowRegion><flowPara
          id="flowPara15095" /></flowRoot>    <g
        id="g3644"
        clip-path="url(#clipPath3646)">
@@ -5051,121 +5052,121 @@
            style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            xml:space="preserve"><tspan
              id="tspan4044"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="60.544113"
              x="21.604883"
              sodipodi:role="line">Mithilfe von Abfragen lassen sich aus Datenbanken gezielt Informationen gewinnen.</tspan><tspan
              id="tspan3522"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="71.127449"
              x="21.604883"
              sodipodi:role="line">Das Ergebnis einer Abfrage ist dabei wieder eine Tabelle.</tspan><tspan
              id="tspan3526"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="81.710777"
              x="21.604883"
              sodipodi:role="line">Abfragen formuliert man in einer vom Datenbanksystem abhängigen Abfragesprache, </tspan><tspan
              id="tspan3566"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="92.294113"
              x="21.604883"
              sodipodi:role="line">hier handelt es sich um <tspan
    id="tspan3610"
-   style="fill:#ff0000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">SQL (Stuctured Query Language)</tspan>.</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000">SQL (Stuctured Query Language)</tspan>.</tspan><tspan
              id="tspan3568"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="102.87744"
              x="21.604883"
              sodipodi:role="line" /><tspan
              id="tspan3536"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="113.46078"
              x="21.604883"
              sodipodi:role="line">JSQL-Abfrage setzen sich aus Hauptbefehlen zusammen: </tspan><tspan
              id="tspan3558"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="124.04411"
              x="21.604883"
              sodipodi:role="line">Mit <tspan
    id="tspan3598"
-   style="fill:#ff0000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">SELECT</tspan> gibt man an, welche Spalten man ausgegeben haben möchte. Man nennt diesen Vorgang <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000">SELECT</tspan> gibt man an, welche Spalten man ausgegeben haben möchte. Man nennt diesen Vorgang <tspan
    id="tspan3612"
-   style="fill:#ff0000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Projektion</tspan>.</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000">Projektion</tspan>.</tspan><tspan
              id="tspan3540"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="134.62744"
              x="21.604883"
              sodipodi:role="line">Mit <tspan
    id="tspan3600"
-   style="fill:#ff0000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">FROM </tspan>gibt man die Tabelle an, aus der die Spalten stammen.</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000">FROM </tspan>gibt man die Tabelle an, aus der die Spalten stammen.</tspan><tspan
              id="tspan3542"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="145.21077"
              x="21.604883"
              sodipodi:role="line">Mit <tspan
    id="tspan3602"
-   style="fill:#ff0000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">WHERE</tspan> kann man zusätzliche Bedingungen angeben, unter der die Datensätze ausgesucht werden. </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000">WHERE</tspan> kann man zusätzliche Bedingungen angeben, unter der die Datensätze ausgesucht werden. </tspan><tspan
              id="tspan3544"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="155.79411"
              x="21.604883"
              sodipodi:role="line">Diesen Vorgang nennt man Selektion. Bedingungen können z.B. mit <tspan
    id="tspan3604"
-   style="fill:#ff0000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">OR</tspan> oder <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000">OR</tspan> oder <tspan
    id="tspan3606"
-   style="fill:#ff0000;-inkscape-font-specification:Ubuntu;font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">AND</tspan> verknüpft werden.</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000">AND</tspan> verknüpft werden.</tspan><tspan
              id="tspan3586"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="166.37744"
              x="21.604883"
              sodipodi:role="line" /><tspan
              id="tspan3588"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.26458332"
              y="176.96077"
              x="21.604883"
              sodipodi:role="line">Eine Abfrage ist im Allgemeinen eine Kombination aus Selektion und Projektion.</tspan><tspan
              id="tspan3592"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="187.54411"
              x="21.604883"
              sodipodi:role="line" /><tspan
              id="tspan3590"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="198.12744"
              x="21.604883"
              sodipodi:role="line">Anmerkungen</tspan><tspan
              id="tspan3546"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="208.71077"
              x="21.604883"
              sodipodi:role="line">Die SQL-Befehle werden in Großbuchstaben formuliert, können aber auch klein eingegeben werden. </tspan><tspan
              id="tspan3554"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="219.2941"
              x="21.604883"
              sodipodi:role="line">Bei den Attributnamen muss die Groß- und Kleinschreibung beachtet werden. </tspan><tspan
              id="tspan3556"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="229.87744"
              x="21.604883"
              sodipodi:role="line">Der Strichpunkt am Ende der Abfrage kann weggelassen werden.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="240.46077"
              x="21.604883"
              sodipodi:role="line"
              id="tspan3650" /><tspan
              id="tspan3548"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="251.0441"
              x="21.604883"
              sodipodi:role="line" /><tspan
              id="tspan3550"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="261.62744"
              x="21.604883"
              sodipodi:role="line" /><tspan
              id="tspan3534"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332"
              y="272.21075"
              x="21.604883"
              sodipodi:role="line" /></text>
@@ -5317,6 +5318,444 @@
          style="stroke-width:0.26458332"
          id="tspan3532" /></text>
   </g>
+  <ns1:mousehandler
+     ns1:subtype="jessyInk_core_mouseHandler_zoomControl">
+    <script>// Copyright 2008, 2009 Hannes Hochreiner
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see http://www.gnu.org/licenses/.
+
+// Add event listener for initialisation.
+document.addEventListener(&quot;DOMContentLoaded&quot;,  jessyInk_core_mouseHandler_zoomControl_init, false);
+
+/** Initialisation function.
+ *  
+ *  This function looks for the objects of the appropriate sub-type and hands them to another function that will add the required methods.
+ */
+function jessyInk_core_mouseHandler_zoomControl_init()
+{
+	var elems = document.getElementsByTagNameNS(&quot;https://launchpad.net/jessyink&quot;, &quot;mousehandler&quot;);
+
+	for (var counter = 0; counter &lt; elems.length; counter++)
+	{
+		if (elems[counter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;subtype&quot;) == &quot;jessyInk_core_mouseHandler_zoomControl&quot;)
+			jessyInk_core_mouseHandler_zoomControl(elems[counter]);
+	}
+}
+
+/** Function to initialise an object.
+ *
+ *  @param obj Object to be initialised.
+ */
+function jessyInk_core_mouseHandler_zoomControl(obj)
+{
+	// Last dragging position.
+	obj.dragging_last;
+	// Flag to indicate whether dragging is active currently.
+	obj.dragging_active = false;
+	// Flag to indicate whether dragging is working currently.
+	obj.dragging_working = false;
+	// Flag to indicate whether the user clicked.
+	obj.click = false;
+
+	/** Function supplying a custom mouse handler.
+	 *
+	 *  @returns A dictionary containing the new mouse handler functions.
+	 */
+	obj.getMouseHandler = function ()
+	{
+		var handlerDictio = new Object();
+
+		handlerDictio[SLIDE_MODE] = new Object();
+		handlerDictio[SLIDE_MODE][MOUSE_DOWN] = obj.mousedown;
+		handlerDictio[SLIDE_MODE][MOUSE_MOVE] = obj.mousemove;
+		handlerDictio[SLIDE_MODE][MOUSE_UP] = obj.mouseup;
+		handlerDictio[SLIDE_MODE][MOUSE_WHEEL] = obj.mousewheel;
+
+		return handlerDictio;
+	}
+
+	/** Event handler for mouse clicks.
+	 *
+	 *  @param e Event object.
+	 */
+	obj.mouseclick = function (e)
+	{
+		var elem = obj.getAdHocViewBbox(slides[activeSlide][&quot;viewGroup&quot;], obj.getCoords(e));
+
+		processingEffect = true;
+
+		effectArray = new Array();
+
+		effectArray[0] = new Object();
+		effectArray[0][&quot;effect&quot;] = &quot;view&quot;;
+		effectArray[0][&quot;dir&quot;] = 1;
+		effectArray[0][&quot;element&quot;] = slides[activeSlide][&quot;viewGroup&quot;];
+		effectArray[0][&quot;options&quot;] = new Object();
+		effectArray[0][&quot;options&quot;][&quot;length&quot;] = 200;
+
+		if (elem == null)
+			effectArray[0][&quot;options&quot;][&quot;matrixNew&quot;] = (new matrixSVG()).fromSVGElements(1, 0, 0, 1, 0, 0);
+		else
+			effectArray[0][&quot;options&quot;][&quot;matrixNew&quot;] = obj.pointMatrixToTransformation(obj.rectToMatrix(elem)).mult((new matrixSVG()).fromSVGMatrix(slides[activeSlide].viewGroup.getScreenCTM()).inv().mult((new matrixSVG()).fromSVGMatrix(elem.parentNode.getScreenCTM())).inv());
+
+		transCounter = 0;
+		startTime = (new Date()).getTime();
+		lastFrameTime = null;
+		effect(1);
+
+		return false;
+	}
+
+	/** Function to search for the element the user clicked on.
+	 *
+	 *	This function searches for the element with the highest z-order, which encloses the point the user clicked on
+	 *	and which view box fits entierly into the currently visible part of the slide.
+	 *
+	 *  @param elem Element to start the search from.
+	 *  @param pnt Point where the user clicked.
+	 *  @returns The element the user clicked on or null, if no element could be found.
+	 */
+	obj.getAdHocViewBbox = function (elem, pnt)
+	{
+		var children = elem.childNodes;
+		
+		for (var counter = 0; counter &lt; children.length; counter++)
+		{
+			if (children[counter].getBBox)
+			{
+				var childPointList = obj.projectRect(children[counter].getBBox(), children[counter].getScreenCTM());
+
+				var viewBbox = document.documentElement.createSVGRect();
+
+				viewBbox.x = 0.0;
+				viewBbox.y = 0.0;
+				viewBbox.width = WIDTH;
+				viewBbox.height = HEIGHT;
+
+				var screenPointList = obj.projectRect(viewBbox, slides[activeSlide][&quot;element&quot;].getScreenCTM());
+
+				if (obj.pointsWithinRect([pnt], childPointList) &amp;&amp; obj.pointsWithinRect(childPointList, screenPointList))
+					return children[counter];
+
+				child = obj.getAdHocViewBbox(children[counter], pnt);
+
+				if (child != null)
+					return child;
+			}
+		}
+
+		return null;
+	}
+
+	/** Function to project a rectangle using the projection matrix supplied.
+	 *
+	 *  @param rect The rectangle to project.
+	 *  @param projectionMatrix The projection matrix.
+	 *  @returns A list of the four corners of the projected rectangle starting from the upper left corner and going counter-clockwise.
+	 */
+	obj.projectRect = function (rect, projectionMatrix)
+	{
+		var pntUL = document.documentElement.createSVGPoint();
+		pntUL.x = rect.x;
+		pntUL.y = rect.y;
+		pntUL = pntUL.matrixTransform(projectionMatrix);
+
+		var pntLL = document.documentElement.createSVGPoint();
+		pntLL.x = rect.x;
+		pntLL.y = rect.y + rect.height;
+		pntLL = pntLL.matrixTransform(projectionMatrix);
+
+		var pntUR = document.documentElement.createSVGPoint();
+		pntUR.x = rect.x + rect.width;
+		pntUR.y = rect.y;
+		pntUR = pntUR.matrixTransform(projectionMatrix);
+
+		var pntLR = document.documentElement.createSVGPoint();
+		pntLR.x = rect.x + rect.width;
+		pntLR.y = rect.y + rect.height;
+		pntLR = pntLR.matrixTransform(projectionMatrix);
+
+		return [pntUL, pntLL, pntUR, pntLR];
+	}
+
+	/** Function to determine whether all the points supplied in a list are within a rectangle.
+	 *
+	 *  @param pnts List of points to check.
+	 *  @param pointList List of points representing the four corners of the rectangle.
+	 *  @return True, if all points are within the rectangle; false, otherwise.
+	 */
+	obj.pointsWithinRect = function (pnts, pointList)
+	{
+		var pntUL = pointList[0];
+		var pntLL = pointList[1];
+		var pntUR = pointList[2];
+
+		var matrixOrig = (new matrixSVG()).fromElements(pntUL.x, pntLL.x, pntUR.x, pntUL.y, pntLL.y, pntUR.y, 1, 1, 1);
+		var matrixProj = (new matrixSVG()).fromElements(0, 0, 1, 0, 1, 0, 1, 1, 1);
+
+		var matrixProjection = matrixProj.mult(matrixOrig.inv());
+
+		for (var blockCounter = 0; blockCounter &lt; Math.ceil(pnts.length / 3.0); blockCounter++)
+		{
+			var subPnts = new Array();
+
+			for (var pntCounter = 0; pntCounter &lt; 3.0; pntCounter++)
+			{
+				if (blockCounter * 3.0 + pntCounter &lt; pnts.length)
+					subPnts[pntCounter] = pnts[blockCounter * 3.0 + pntCounter];
+				else
+				{
+					var tmpPnt = document.documentElement.createSVGPoint();
+					
+					tmpPnt.x = 0.0;
+					tmpPnt.y = 0.0;
+
+					subPnts[pntCounter] = tmpPnt;
+				}
+			}
+
+			var matrixPnt = (new matrixSVG).fromElements(subPnts[0].x, subPnts[1].x, subPnts[2].x, subPnts[0].y, subPnts[1].y, subPnts[2].y, 1, 1, 1);
+			var matrixTrans = matrixProjection.mult(matrixPnt);
+
+			for (var pntCounter = 0; pntCounter &lt; 3.0; pntCounter++)
+			{
+				if (blockCounter * 3.0 + pntCounter &lt; pnts.length)
+				{
+					if ((pntCounter == 0) &amp;&amp; !((matrixTrans.e11 &gt; 0.01) &amp;&amp; (matrixTrans.e11 &lt; 0.99) &amp;&amp; (matrixTrans.e21 &gt; 0.01) &amp;&amp; (matrixTrans.e21 &lt; 0.99)))
+						return false;
+					else if ((pntCounter == 1) &amp;&amp; !((matrixTrans.e12 &gt; 0.01) &amp;&amp; (matrixTrans.e12 &lt; 0.99) &amp;&amp; (matrixTrans.e22 &gt; 0.01) &amp;&amp; (matrixTrans.e22 &lt; 0.99)))
+						return false;
+					else if ((pntCounter == 2) &amp;&amp; !((matrixTrans.e13 &gt; 0.01) &amp;&amp; (matrixTrans.e13 &lt; 0.99) &amp;&amp; (matrixTrans.e23 &gt; 0.01) &amp;&amp; (matrixTrans.e23 &lt; 0.99)))
+						return false;
+				}
+			}
+		}
+
+		return true;
+	}
+
+	/** Event handler for mouse movements.
+	 *
+	 *  @param e Event object.
+	 */
+	obj.mousemove = function (e)
+	{
+		obj.click = false;
+
+		if (!obj.dragging_active || obj.dragging_working)
+			return false;
+
+		obj.dragging_working = true;
+
+		var p = obj.getCoords(e);
+
+		if (slides[activeSlide].viewGroup.transform.baseVal.numberOfItems &lt; 1)
+		{
+			var matrix = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+		}
+		else
+		{
+			var matrix = (new matrixSVG()).fromSVGMatrix(slides[activeSlide].viewGroup.transform.baseVal.consolidate().matrix);
+		}
+
+		matrix.e13 += p.x - obj.dragging_last.x;
+		matrix.e23 += p.y - obj.dragging_last.y;
+
+		slides[activeSlide][&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, matrix.toAttribute());
+
+		obj.dragging_last = p;
+		obj.dragging_working = false;
+
+		return false;
+	}
+
+	/** Event handler for mouse down.
+	 *
+	 *  @param e Event object.
+	 */
+	obj.mousedown = function (e)
+	{
+		if (obj.dragging_active)
+			return false;
+
+		var value = 0;
+
+		if (e.button)
+			value = e.button;
+		else if (e.which)
+			value = e.which;
+
+		if (value == 1)
+		{
+			obj.dragging_last = obj.getCoords(e);
+			obj.dragging_active = true;
+			obj.click = true;
+		}
+
+		return false;
+	}
+
+	/** Event handler for mouse up.
+	 *
+	 *  @param e Event object.
+	 */
+	obj.mouseup = function (e)
+	{
+		obj.dragging_active = false;
+
+		if (obj.click)
+			return obj.mouseclick(e);
+		else
+			return false;
+	}
+
+	/** Function to get the coordinates of a point corrected for the offset of the viewport.
+	 *
+	 *  @param e Point.
+	 *  @returns Coordinates of the point corrected for the offset of the viewport.
+	 */
+	obj.getCoords = function (e)
+	{
+		var svgPoint = document.documentElement.createSVGPoint();
+		svgPoint.x = e.clientX + window.pageXOffset;
+		svgPoint.y = e.clientY + window.pageYOffset;
+
+		return svgPoint;
+	}
+
+	/** Event handler for scrolling.
+	 *
+	 *  @param e Event object.
+	 */
+	obj.mousewheel = function(e)
+	{
+		var p = obj.projectCoords(obj.getCoords(e));
+
+		if (slides[activeSlide].viewGroup.transform.baseVal.numberOfItems &lt; 1)
+		{
+			var matrix = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+		}
+		else
+		{
+			var matrix = (new matrixSVG()).fromSVGMatrix(slides[activeSlide].viewGroup.transform.baseVal.consolidate().matrix);
+		}
+
+		if (e.wheelDelta)
+		{ // IE Opera
+			delta = e.wheelDelta/120;
+		}
+		else if (e.detail)
+		{ // MOZ
+			delta = -e.detail/3;
+		}
+
+		var widthOld = p.x * matrix.e11 + p.y * matrix.e12;
+		var heightOld = p.x * matrix.e21 + p.y * matrix.e22;
+
+		matrix.e11 *= (1.0 - delta / 20.0);
+		matrix.e12 *= (1.0 - delta / 20.0);
+		matrix.e21 *= (1.0 - delta / 20.0);
+		matrix.e22 *= (1.0 - delta / 20.0);
+
+		var widthNew = p.x * matrix.e11 + p.y * matrix.e12;
+		var heightNew = p.x * matrix.e21 + p.y * matrix.e22;
+
+		matrix.e13 += (widthOld - widthNew);
+		matrix.e23 += (heightOld - heightNew);
+
+		slides[activeSlide][&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, matrix.toAttribute());
+
+		return false;
+	}
+
+	/** Function to project a point to screen coordinates.
+	 *
+	 *	@param Point.
+	 *	@returns The point projected to screen coordinates.
+	 */
+	obj.projectCoords = function(pnt)
+	{
+		var matrix = slides[activeSlide][&quot;element&quot;].getScreenCTM();
+
+		if (slides[activeSlide][&quot;viewGroup&quot;])
+			matrix = slides[activeSlide][&quot;viewGroup&quot;].getScreenCTM();
+
+		pnt = pnt.matrixTransform(matrix.inverse());
+		return pnt;
+	}
+
+	/** Function to convert a rectangle into a point matrix.
+	 *
+	 *	The function figures out a rectangle that encloses the rectangle given and has the same width/height ratio as the viewport of the presentation.
+	 *
+	 *  @param rect Rectangle.
+	 *  @return The upper left, upper right and lower right corner of the rectangle in a point matrix.
+	 */
+	obj.rectToMatrix = function(rect)
+	{
+		rectWidth = rect.getBBox().width;
+		rectHeight = rect.getBBox().height;
+		rectX = rect.getBBox().x;
+		rectY = rect.getBBox().y;
+		rectXcorr = 0;
+		rectYcorr = 0;
+
+		scaleX = WIDTH / rectWidth;
+		scaleY = HEIGHT / rectHeight;
+
+		if (scaleX &gt; scaleY)
+		{
+			scaleX = scaleY;
+			rectXcorr -= (WIDTH / scaleX - rectWidth) / 2;
+			rectWidth = WIDTH / scaleX;
+		}	
+		else
+		{
+			scaleY = scaleX;
+			rectYcorr -= (HEIGHT / scaleY - rectHeight) / 2;
+			rectHeight = HEIGHT / scaleY;
+		}
+
+		if (rect.transform.baseVal.numberOfItems &lt; 1)
+		{
+			mRectTrans = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
+		}
+		else
+		{
+			mRectTrans = (new matrixSVG()).fromSVGMatrix(rect.transform.baseVal.consolidate().matrix);
+		}
+
+		newBasePoints = (new matrixSVG()).fromElements(rectX, rectX, rectX, rectY, rectY, rectY, 1, 1, 1);
+		newVectors = (new matrixSVG()).fromElements(rectXcorr, rectXcorr + rectWidth, rectXcorr + rectWidth, rectYcorr, rectYcorr, rectYcorr + rectHeight, 0, 0, 0);
+
+		return mRectTrans.mult(newBasePoints.add(newVectors));
+	}
+
+	/** Function to return a transformation matrix from a point matrix.
+	 *
+	 *	@param mPoints The point matrix.
+	 *	@returns The transformation matrix.
+	 */
+	obj.pointMatrixToTransformation = function(mPoints)
+	{
+		mPointsOld = (new matrixSVG()).fromElements(0, WIDTH, WIDTH, 0, 0, HEIGHT, 1, 1, 1);
+
+		return mPointsOld.mult(mPoints.inv());
+	}
+}
+
+</script>
+  </ns1:mousehandler>
   <script
      ns1:version="1.5.5"
      id="JessyInk">// Copyright 2008, 2009 Hannes Hochreiner
@@ -8047,442 +8486,4 @@ SVGElement.prototype.getTransformToElement = SVGElement.prototype.getTransformTo
     return elem.getScreenCTM().inverse().multiply(this.getScreenCTM());
 };
 </script>
-  <ns1:mousehandler
-     ns1:subtype="jessyInk_core_mouseHandler_zoomControl">
-    <script>// Copyright 2008, 2009 Hannes Hochreiner
-// This program is free software: you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation, either version 3 of the License, or
-// (at your option) any later version.
-//
-// This program is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
-//
-// You should have received a copy of the GNU General Public License
-// along with this program.  If not, see http://www.gnu.org/licenses/.
-
-// Add event listener for initialisation.
-document.addEventListener(&quot;DOMContentLoaded&quot;,  jessyInk_core_mouseHandler_zoomControl_init, false);
-
-/** Initialisation function.
- *  
- *  This function looks for the objects of the appropriate sub-type and hands them to another function that will add the required methods.
- */
-function jessyInk_core_mouseHandler_zoomControl_init()
-{
-	var elems = document.getElementsByTagNameNS(&quot;https://launchpad.net/jessyink&quot;, &quot;mousehandler&quot;);
-
-	for (var counter = 0; counter &lt; elems.length; counter++)
-	{
-		if (elems[counter].getAttributeNS(&quot;https://launchpad.net/jessyink&quot;, &quot;subtype&quot;) == &quot;jessyInk_core_mouseHandler_zoomControl&quot;)
-			jessyInk_core_mouseHandler_zoomControl(elems[counter]);
-	}
-}
-
-/** Function to initialise an object.
- *
- *  @param obj Object to be initialised.
- */
-function jessyInk_core_mouseHandler_zoomControl(obj)
-{
-	// Last dragging position.
-	obj.dragging_last;
-	// Flag to indicate whether dragging is active currently.
-	obj.dragging_active = false;
-	// Flag to indicate whether dragging is working currently.
-	obj.dragging_working = false;
-	// Flag to indicate whether the user clicked.
-	obj.click = false;
-
-	/** Function supplying a custom mouse handler.
-	 *
-	 *  @returns A dictionary containing the new mouse handler functions.
-	 */
-	obj.getMouseHandler = function ()
-	{
-		var handlerDictio = new Object();
-
-		handlerDictio[SLIDE_MODE] = new Object();
-		handlerDictio[SLIDE_MODE][MOUSE_DOWN] = obj.mousedown;
-		handlerDictio[SLIDE_MODE][MOUSE_MOVE] = obj.mousemove;
-		handlerDictio[SLIDE_MODE][MOUSE_UP] = obj.mouseup;
-		handlerDictio[SLIDE_MODE][MOUSE_WHEEL] = obj.mousewheel;
-
-		return handlerDictio;
-	}
-
-	/** Event handler for mouse clicks.
-	 *
-	 *  @param e Event object.
-	 */
-	obj.mouseclick = function (e)
-	{
-		var elem = obj.getAdHocViewBbox(slides[activeSlide][&quot;viewGroup&quot;], obj.getCoords(e));
-
-		processingEffect = true;
-
-		effectArray = new Array();
-
-		effectArray[0] = new Object();
-		effectArray[0][&quot;effect&quot;] = &quot;view&quot;;
-		effectArray[0][&quot;dir&quot;] = 1;
-		effectArray[0][&quot;element&quot;] = slides[activeSlide][&quot;viewGroup&quot;];
-		effectArray[0][&quot;options&quot;] = new Object();
-		effectArray[0][&quot;options&quot;][&quot;length&quot;] = 200;
-
-		if (elem == null)
-			effectArray[0][&quot;options&quot;][&quot;matrixNew&quot;] = (new matrixSVG()).fromSVGElements(1, 0, 0, 1, 0, 0);
-		else
-			effectArray[0][&quot;options&quot;][&quot;matrixNew&quot;] = obj.pointMatrixToTransformation(obj.rectToMatrix(elem)).mult((new matrixSVG()).fromSVGMatrix(slides[activeSlide].viewGroup.getScreenCTM()).inv().mult((new matrixSVG()).fromSVGMatrix(elem.parentNode.getScreenCTM())).inv());
-
-		transCounter = 0;
-		startTime = (new Date()).getTime();
-		lastFrameTime = null;
-		effect(1);
-
-		return false;
-	}
-
-	/** Function to search for the element the user clicked on.
-	 *
-	 *	This function searches for the element with the highest z-order, which encloses the point the user clicked on
-	 *	and which view box fits entierly into the currently visible part of the slide.
-	 *
-	 *  @param elem Element to start the search from.
-	 *  @param pnt Point where the user clicked.
-	 *  @returns The element the user clicked on or null, if no element could be found.
-	 */
-	obj.getAdHocViewBbox = function (elem, pnt)
-	{
-		var children = elem.childNodes;
-		
-		for (var counter = 0; counter &lt; children.length; counter++)
-		{
-			if (children[counter].getBBox)
-			{
-				var childPointList = obj.projectRect(children[counter].getBBox(), children[counter].getScreenCTM());
-
-				var viewBbox = document.documentElement.createSVGRect();
-
-				viewBbox.x = 0.0;
-				viewBbox.y = 0.0;
-				viewBbox.width = WIDTH;
-				viewBbox.height = HEIGHT;
-
-				var screenPointList = obj.projectRect(viewBbox, slides[activeSlide][&quot;element&quot;].getScreenCTM());
-
-				if (obj.pointsWithinRect([pnt], childPointList) &amp;&amp; obj.pointsWithinRect(childPointList, screenPointList))
-					return children[counter];
-
-				child = obj.getAdHocViewBbox(children[counter], pnt);
-
-				if (child != null)
-					return child;
-			}
-		}
-
-		return null;
-	}
-
-	/** Function to project a rectangle using the projection matrix supplied.
-	 *
-	 *  @param rect The rectangle to project.
-	 *  @param projectionMatrix The projection matrix.
-	 *  @returns A list of the four corners of the projected rectangle starting from the upper left corner and going counter-clockwise.
-	 */
-	obj.projectRect = function (rect, projectionMatrix)
-	{
-		var pntUL = document.documentElement.createSVGPoint();
-		pntUL.x = rect.x;
-		pntUL.y = rect.y;
-		pntUL = pntUL.matrixTransform(projectionMatrix);
-
-		var pntLL = document.documentElement.createSVGPoint();
-		pntLL.x = rect.x;
-		pntLL.y = rect.y + rect.height;
-		pntLL = pntLL.matrixTransform(projectionMatrix);
-
-		var pntUR = document.documentElement.createSVGPoint();
-		pntUR.x = rect.x + rect.width;
-		pntUR.y = rect.y;
-		pntUR = pntUR.matrixTransform(projectionMatrix);
-
-		var pntLR = document.documentElement.createSVGPoint();
-		pntLR.x = rect.x + rect.width;
-		pntLR.y = rect.y + rect.height;
-		pntLR = pntLR.matrixTransform(projectionMatrix);
-
-		return [pntUL, pntLL, pntUR, pntLR];
-	}
-
-	/** Function to determine whether all the points supplied in a list are within a rectangle.
-	 *
-	 *  @param pnts List of points to check.
-	 *  @param pointList List of points representing the four corners of the rectangle.
-	 *  @return True, if all points are within the rectangle; false, otherwise.
-	 */
-	obj.pointsWithinRect = function (pnts, pointList)
-	{
-		var pntUL = pointList[0];
-		var pntLL = pointList[1];
-		var pntUR = pointList[2];
-
-		var matrixOrig = (new matrixSVG()).fromElements(pntUL.x, pntLL.x, pntUR.x, pntUL.y, pntLL.y, pntUR.y, 1, 1, 1);
-		var matrixProj = (new matrixSVG()).fromElements(0, 0, 1, 0, 1, 0, 1, 1, 1);
-
-		var matrixProjection = matrixProj.mult(matrixOrig.inv());
-
-		for (var blockCounter = 0; blockCounter &lt; Math.ceil(pnts.length / 3.0); blockCounter++)
-		{
-			var subPnts = new Array();
-
-			for (var pntCounter = 0; pntCounter &lt; 3.0; pntCounter++)
-			{
-				if (blockCounter * 3.0 + pntCounter &lt; pnts.length)
-					subPnts[pntCounter] = pnts[blockCounter * 3.0 + pntCounter];
-				else
-				{
-					var tmpPnt = document.documentElement.createSVGPoint();
-					
-					tmpPnt.x = 0.0;
-					tmpPnt.y = 0.0;
-
-					subPnts[pntCounter] = tmpPnt;
-				}
-			}
-
-			var matrixPnt = (new matrixSVG).fromElements(subPnts[0].x, subPnts[1].x, subPnts[2].x, subPnts[0].y, subPnts[1].y, subPnts[2].y, 1, 1, 1);
-			var matrixTrans = matrixProjection.mult(matrixPnt);
-
-			for (var pntCounter = 0; pntCounter &lt; 3.0; pntCounter++)
-			{
-				if (blockCounter * 3.0 + pntCounter &lt; pnts.length)
-				{
-					if ((pntCounter == 0) &amp;&amp; !((matrixTrans.e11 &gt; 0.01) &amp;&amp; (matrixTrans.e11 &lt; 0.99) &amp;&amp; (matrixTrans.e21 &gt; 0.01) &amp;&amp; (matrixTrans.e21 &lt; 0.99)))
-						return false;
-					else if ((pntCounter == 1) &amp;&amp; !((matrixTrans.e12 &gt; 0.01) &amp;&amp; (matrixTrans.e12 &lt; 0.99) &amp;&amp; (matrixTrans.e22 &gt; 0.01) &amp;&amp; (matrixTrans.e22 &lt; 0.99)))
-						return false;
-					else if ((pntCounter == 2) &amp;&amp; !((matrixTrans.e13 &gt; 0.01) &amp;&amp; (matrixTrans.e13 &lt; 0.99) &amp;&amp; (matrixTrans.e23 &gt; 0.01) &amp;&amp; (matrixTrans.e23 &lt; 0.99)))
-						return false;
-				}
-			}
-		}
-
-		return true;
-	}
-
-	/** Event handler for mouse movements.
-	 *
-	 *  @param e Event object.
-	 */
-	obj.mousemove = function (e)
-	{
-		obj.click = false;
-
-		if (!obj.dragging_active || obj.dragging_working)
-			return false;
-
-		obj.dragging_working = true;
-
-		var p = obj.getCoords(e);
-
-		if (slides[activeSlide].viewGroup.transform.baseVal.numberOfItems &lt; 1)
-		{
-			var matrix = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
-		}
-		else
-		{
-			var matrix = (new matrixSVG()).fromSVGMatrix(slides[activeSlide].viewGroup.transform.baseVal.consolidate().matrix);
-		}
-
-		matrix.e13 += p.x - obj.dragging_last.x;
-		matrix.e23 += p.y - obj.dragging_last.y;
-
-		slides[activeSlide][&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, matrix.toAttribute());
-
-		obj.dragging_last = p;
-		obj.dragging_working = false;
-
-		return false;
-	}
-
-	/** Event handler for mouse down.
-	 *
-	 *  @param e Event object.
-	 */
-	obj.mousedown = function (e)
-	{
-		if (obj.dragging_active)
-			return false;
-
-		var value = 0;
-
-		if (e.button)
-			value = e.button;
-		else if (e.which)
-			value = e.which;
-
-		if (value == 1)
-		{
-			obj.dragging_last = obj.getCoords(e);
-			obj.dragging_active = true;
-			obj.click = true;
-		}
-
-		return false;
-	}
-
-	/** Event handler for mouse up.
-	 *
-	 *  @param e Event object.
-	 */
-	obj.mouseup = function (e)
-	{
-		obj.dragging_active = false;
-
-		if (obj.click)
-			return obj.mouseclick(e);
-		else
-			return false;
-	}
-
-	/** Function to get the coordinates of a point corrected for the offset of the viewport.
-	 *
-	 *  @param e Point.
-	 *  @returns Coordinates of the point corrected for the offset of the viewport.
-	 */
-	obj.getCoords = function (e)
-	{
-		var svgPoint = document.documentElement.createSVGPoint();
-		svgPoint.x = e.clientX + window.pageXOffset;
-		svgPoint.y = e.clientY + window.pageYOffset;
-
-		return svgPoint;
-	}
-
-	/** Event handler for scrolling.
-	 *
-	 *  @param e Event object.
-	 */
-	obj.mousewheel = function(e)
-	{
-		var p = obj.projectCoords(obj.getCoords(e));
-
-		if (slides[activeSlide].viewGroup.transform.baseVal.numberOfItems &lt; 1)
-		{
-			var matrix = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
-		}
-		else
-		{
-			var matrix = (new matrixSVG()).fromSVGMatrix(slides[activeSlide].viewGroup.transform.baseVal.consolidate().matrix);
-		}
-
-		if (e.wheelDelta)
-		{ // IE Opera
-			delta = e.wheelDelta/120;
-		}
-		else if (e.detail)
-		{ // MOZ
-			delta = -e.detail/3;
-		}
-
-		var widthOld = p.x * matrix.e11 + p.y * matrix.e12;
-		var heightOld = p.x * matrix.e21 + p.y * matrix.e22;
-
-		matrix.e11 *= (1.0 - delta / 20.0);
-		matrix.e12 *= (1.0 - delta / 20.0);
-		matrix.e21 *= (1.0 - delta / 20.0);
-		matrix.e22 *= (1.0 - delta / 20.0);
-
-		var widthNew = p.x * matrix.e11 + p.y * matrix.e12;
-		var heightNew = p.x * matrix.e21 + p.y * matrix.e22;
-
-		matrix.e13 += (widthOld - widthNew);
-		matrix.e23 += (heightOld - heightNew);
-
-		slides[activeSlide][&quot;viewGroup&quot;].setAttribute(&quot;transform&quot;, matrix.toAttribute());
-
-		return false;
-	}
-
-	/** Function to project a point to screen coordinates.
-	 *
-	 *	@param Point.
-	 *	@returns The point projected to screen coordinates.
-	 */
-	obj.projectCoords = function(pnt)
-	{
-		var matrix = slides[activeSlide][&quot;element&quot;].getScreenCTM();
-
-		if (slides[activeSlide][&quot;viewGroup&quot;])
-			matrix = slides[activeSlide][&quot;viewGroup&quot;].getScreenCTM();
-
-		pnt = pnt.matrixTransform(matrix.inverse());
-		return pnt;
-	}
-
-	/** Function to convert a rectangle into a point matrix.
-	 *
-	 *	The function figures out a rectangle that encloses the rectangle given and has the same width/height ratio as the viewport of the presentation.
-	 *
-	 *  @param rect Rectangle.
-	 *  @return The upper left, upper right and lower right corner of the rectangle in a point matrix.
-	 */
-	obj.rectToMatrix = function(rect)
-	{
-		rectWidth = rect.getBBox().width;
-		rectHeight = rect.getBBox().height;
-		rectX = rect.getBBox().x;
-		rectY = rect.getBBox().y;
-		rectXcorr = 0;
-		rectYcorr = 0;
-
-		scaleX = WIDTH / rectWidth;
-		scaleY = HEIGHT / rectHeight;
-
-		if (scaleX &gt; scaleY)
-		{
-			scaleX = scaleY;
-			rectXcorr -= (WIDTH / scaleX - rectWidth) / 2;
-			rectWidth = WIDTH / scaleX;
-		}	
-		else
-		{
-			scaleY = scaleX;
-			rectYcorr -= (HEIGHT / scaleY - rectHeight) / 2;
-			rectHeight = HEIGHT / scaleY;
-		}
-
-		if (rect.transform.baseVal.numberOfItems &lt; 1)
-		{
-			mRectTrans = (new matrixSVG()).fromElements(1, 0, 0, 0, 1, 0, 0, 0, 1);
-		}
-		else
-		{
-			mRectTrans = (new matrixSVG()).fromSVGMatrix(rect.transform.baseVal.consolidate().matrix);
-		}
-
-		newBasePoints = (new matrixSVG()).fromElements(rectX, rectX, rectX, rectY, rectY, rectY, 1, 1, 1);
-		newVectors = (new matrixSVG()).fromElements(rectXcorr, rectXcorr + rectWidth, rectXcorr + rectWidth, rectYcorr, rectYcorr, rectYcorr + rectHeight, 0, 0, 0);
-
-		return mRectTrans.mult(newBasePoints.add(newVectors));
-	}
-
-	/** Function to return a transformation matrix from a point matrix.
-	 *
-	 *	@param mPoints The point matrix.
-	 *	@returns The transformation matrix.
-	 */
-	obj.pointMatrixToTransformation = function(mPoints)
-	{
-		mPointsOld = (new matrixSVG()).fromElements(0, WIDTH, WIDTH, 0, 0, HEIGHT, 1, 1, 1);
-
-		return mPointsOld.mult(mPoints.inv());
-	}
-}
-
-</script>
-  </ns1:mousehandler>
 </svg>
