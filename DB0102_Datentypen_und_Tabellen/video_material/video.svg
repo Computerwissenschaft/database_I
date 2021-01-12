@@ -112,7 +112,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.5841146"
      inkscape:cx="897.56444"
-     inkscape:cy="542.53049"
+     inkscape:cy="551.09045"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -141,7 +141,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -559,14 +559,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="177.41139"
+       x="170.53232"
        y="181.48555"
        id="text1312-1-9"><tspan
          sodipodi:role="line"
          id="tspan1310-5-8"
-         x="177.41139"
+         x="170.53232"
          y="181.48555"
-         style="font-size:8.46666622px;stroke-width:0.26458332">Meyer</tspan></text>
+         style="font-size:8.46666622px;stroke-width:0.26458332">von Hausen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -914,7 +914,7 @@
          x="31.75"
          y="216.95833"
          style="font-size:7.76111126px;stroke-width:0.26458332"
-         id="tspan3937">INT(n)</tspan><tspan
+         id="tspan3937">INT</tspan><tspan
          sodipodi:role="line"
          x="31.75"
          y="226.65973"
@@ -975,30 +975,25 @@
          x="116.41666"
          y="216.95833"
          style="font-size:7.76111126px;stroke-width:0.26458332"
-         id="tspan3951">Ganze Zahl mit n Stellen</tspan><tspan
+         id="tspan1367">Ganze Zahl </tspan><tspan
          sodipodi:role="line"
          x="116.41666"
          y="226.65973"
          style="font-size:7.76111126px;stroke-width:0.26458332"
-         id="tspan1367" /><tspan
+         id="tspan1347" /><tspan
          sodipodi:role="line"
          x="116.41666"
          y="236.36111"
          style="font-size:7.76111126px;stroke-width:0.26458332"
-         id="tspan1347" /><tspan
+         id="tspan3955" /><tspan
          sodipodi:role="line"
          x="116.41666"
          y="246.0625"
          style="font-size:7.76111126px;stroke-width:0.26458332"
-         id="tspan3955" /><tspan
-         sodipodi:role="line"
-         x="116.41666"
-         y="255.76389"
-         style="font-size:7.76111126px;stroke-width:0.26458332"
          id="tspan3957">Kommazahl mit n Stellen vor und </tspan><tspan
          sodipodi:role="line"
          x="116.41666"
-         y="265.46527"
+         y="255.76389"
          style="font-size:7.76111126px;stroke-width:0.26458332"
          id="tspan3959">m Stellen nach dem Komma</tspan></text>
     <rect
@@ -1059,7 +1054,7 @@
          x="341.92642"
          y="215.44524"
          style="font-size:7.76111126px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan4010">INT(3)</tspan><tspan
+         id="tspan4010">INT</tspan><tspan
          sodipodi:role="line"
          x="341.92642"
          y="225.14664"
